@@ -5,7 +5,7 @@ scientific-guide-notebooks is a collection of machine learning and deep learning
 ```
 .
 ├── text-summarizer          - Summarization with Transformer Model
-├── machine-translation      - English-to-German NMT Model
+├── machine-translation      - English-to-German Translator, LSTM Model with attention
 └── 
 ```
 
