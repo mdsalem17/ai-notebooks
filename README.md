@@ -4,6 +4,8 @@ scientific-guide-notebooks is a collection of machine learning and deep learning
 ## Structure de l’archive 
 ```
 .
+├── chatbot                  - Two Chatbots Dialogue, Reformer: The Efficient 
+Transformer Model, trained on MultiWoz dataset
 ├── machine-translation      - English-to-German Translator, LSTM Model with attention, 
 trained from scratch on opus/medical dataset
 ├── question-answering       - Context-Based Question Answering, pretrained T5 Model, 
