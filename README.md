@@ -4,6 +4,8 @@ scientific-guide-notebooks is a collection of machine learning and deep learning
 ## Archive structure
 ```
 .
+├── MNIST_GANs                - Generating hand-written images of digits, exploring 
+different kind of GANs and GAN techniques on MNIST dataset.
 ├── chatbot                  - Two Chatbots Dialogue, Reformer: The Efficient 
 Transformer Model, trained on MultiWoz dataset
 ├── machine-translation      - English-to-German Translator, LSTM Model with attention, 
@@ -21,10 +23,12 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 - [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
 - 
 
-## Topics of Future Notebooks
-* MNIST_GANs: SimpleGAN - DCGAN - WGAN-GP
+## Topics of Future Notebooks and Work
 * SN-GAN - GAN Controllable Generation - InfoGAN
 * BigGAN - StyleGAN
 * GAN for Data Augmentation
 * U-Net for a biomedical imaging segmentation task
 * Pix2Pix - CycleGAN
+* Converting NLP notebooks from Trax to Pytorch
+
+If you are unable to load one of the notebook in this repository, please copy then paste its link in [nbviewer](https://nbviewer.org/)
