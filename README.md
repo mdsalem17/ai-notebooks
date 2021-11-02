@@ -34,4 +34,4 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 If you are unable to load one of the notebook in this repository, please copy then paste its link in [nbviewer](https://nbviewer.org/).
 
 ## License
-This project is licensed under the terms of the MPL 2 license. See the [LICENSE](./LICENSE) file.
+This project is licensed under the terms of the MIT license. See the [LICENSE](./LICENSE) file.
