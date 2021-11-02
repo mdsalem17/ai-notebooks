@@ -1,7 +1,7 @@
 # scientific-guide-notebooks
 scientific-guide-notebooks is a collection of machine learning and deep learning notebooks
 
-## Structure de l’archive 
+## Archive structure
 ```
 .
 ├── chatbot                  - Two Chatbots Dialogue, Reformer: The Efficient 
@@ -18,3 +18,13 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 
 ## Libraries Used
 - [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax) library, maintained by Google Brain team.
+- [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
+- 
+
+## Topics of Future Notebooks
+* MNIST_GANs: SimpleGAN - DCGAN - WGAN-GP
+* SN-GAN - GAN Controllable Generation - InfoGAN
+* BigGAN - StyleGAN
+* GAN for Data Augmentation
+* U-Net for a biomedical imaging segmentation task
+* Pix2Pix - CycleGAN
