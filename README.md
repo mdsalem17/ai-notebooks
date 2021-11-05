@@ -24,11 +24,11 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 - 
 
 ## Topics of Future Notebooks and Work
-* SN-GAN - GAN Controllable Generation - InfoGAN
 * BigGAN - StyleGAN
 * GAN for Data Augmentation
 * U-Net for a biomedical imaging segmentation task
 * Pix2Pix - CycleGAN
+* GAN Controllable Generation - Conditional GAN
 * Converting NLP notebooks from Trax to Pytorch
 
 If you are unable to load one of the notebook in this repository, please copy then paste its link in [nbviewer](https://nbviewer.org/).
