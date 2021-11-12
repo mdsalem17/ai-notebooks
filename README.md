@@ -6,6 +6,8 @@ scientific-guide-notebooks is a collection of machine learning and deep learning
 .
 ├── MNIST_GANs                - Generating hand-written images of digits, exploring 
 different kind of GANs and GAN techniques on MNIST dataset.
+├── Pix2Pix                  - Converting aerial satellite imagery into map routes, 
+exploring Pix2Pix GAN architecture and its generator U-Net.
 ├── chatbot                  - Two Chatbots Dialogue, Reformer: The Efficient 
 Transformer Model, trained on MultiWoz dataset
 ├── machine-translation      - English-to-German Translator, LSTM Model with attention, 
@@ -24,10 +26,8 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 - 
 
 ## Topics of Future Notebooks and Work
-* BigGAN - StyleGAN
 * GAN for Data Augmentation
-* U-Net for a biomedical imaging segmentation task
-* Pix2Pix - CycleGAN
+* BigGAN - StyleGAN - CycleGAN
 * GAN Controllable Generation - Conditional GAN
 * Converting NLP notebooks from Trax to Pytorch
 
