@@ -4,6 +4,10 @@ scientific-guide-notebooks is a collection of machine learning and deep learning
 ## Archive structure
 ```
 .
+├── Cycle_GAN                 - Converting Horses into Zebras and vice versa, 
+implementing CycleGAN and its residual blocks.
+├── Evaluating_Unbiasing_GANs - Exploring two GAN Evaluation metrics and investigating
+the possible biases that a GAN might have.
 ├── MNIST_GANs                - Generating hand-written images of digits, exploring 
 different kind of GANs and GAN techniques on MNIST dataset.
 ├── Pix2Pix                  - Converting aerial satellite imagery into map routes, 
