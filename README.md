@@ -37,5 +37,8 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 
 If you are unable to load one of the notebook in this repository, please copy then paste its link in [nbviewer](https://nbviewer.org/).
 
+## Warning
+To clone this repository, please use (git-lfs)[https://git-lfs.github.com/] in order to retrieve files that exceed 100MB.
+
 ## License
 This project is licensed under the terms of the MIT license. See the [LICENSE](./LICENSE) file.
