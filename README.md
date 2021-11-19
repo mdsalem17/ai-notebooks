@@ -1,6 +1,7 @@
 # scientific-guide-notebooks
 scientific-guide-notebooks is a collection of machine learning and deep learning notebooks.
 
+
 ## Archive structure
 ```
 .
@@ -29,16 +30,11 @@ Model, trained from scratch on CNN/DailyMail non-anonymized summarization datase
 - [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
 - 
 
-## Topics of Future Notebooks and Work
-* GAN for Data Augmentation
-* BigGAN - StyleGAN - CycleGAN
-* GAN Controllable Generation - Conditional GAN
-* Converting NLP notebooks from Trax to Pytorch
 
-If you are unable to load one of the notebook in this repository, please copy then paste its link in [nbviewer](https://nbviewer.org/).
+## Note
+* If you are unable to load one of the notebook in this repository, please copy then paste its link in [nbviewer](https://nbviewer.org/).
+* To clone this repository, you may need to use (git-lfs)[https://git-lfs.github.com/] in order to retrieve files that exceed 100MB or download this files directly. In general, for large files, we provide a smaller version.
 
-## Warning
-To clone this repository, please use (git-lfs)[https://git-lfs.github.com/] in order to retrieve files that exceed 100MB.
 
 ## License
 This project is licensed under the terms of the MIT license. See the [LICENSE](./LICENSE) file.
